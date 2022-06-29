@@ -42,7 +42,7 @@
     "chalk-template": "~0.4.0",
     "compare-versions": "~4.1.1",
     "deep-diff": "~1.0.2",
-    "es-main": "~1.0.2",
+    "es-main": "~1.2.0",
     "eslint": "~8.16.0",
     "eslint-config-prettier": "~8.5.0",
     "eslint-config-standard": "~17.0.0",

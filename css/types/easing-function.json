@@ -85,7 +85,7 @@
             "description": "<code>linear()</code>",
             "support": {
               "chrome": {
-                "version_added": false
+                "version_added": "113"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
